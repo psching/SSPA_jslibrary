@@ -183,15 +183,12 @@ var multi = (function() {
       }
     }
     
-    console.log("git1");
 
       /*-------------------------------------customise-------------------------------------*/
-                                  console.log("git2");
-                                  
+
                                     var sect = select.id.slice(-1);
-                                    console.log("git3");
+                                    console.log(sect);
                                         update_district_option(sect);
-                                    console.log("git4");
                                         check_limit(select, settings);
                                     console.log("git5");
 
