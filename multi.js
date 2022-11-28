@@ -187,13 +187,8 @@ var multi = (function() {
       /*-------------------------------------customise-------------------------------------*/
 
                                     var sect = select.id.slice(-1);
-console.log("git1");
-console.log(select.id);
-console.log(sect);
                                         update_district_option(sect);
-console.log("git2");
                                         check_limit(select, settings);
-                                    console.log("git5");
 
                                   
                                   
